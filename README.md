@@ -10,7 +10,7 @@ How to use:
 2. Run `composer install`
 3. Rename .env.example to .env
 4. Open .env file and setup your database
-5. Open config/database.php and setup your postgreSQL
+5. Open config/database.php and setup your Database,Username, and Password for your postgreSQL
 6. Run `php artisan key:generate`
 7. Run `php artisan migrate`
 8. Run `php artisan serve`
