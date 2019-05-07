@@ -2,7 +2,8 @@
 Making a Permission Management System in Laravel with PostgreSQL 11
 
 Backup Database in Folder Database/damar.backup
-Note : ( *please restore database before migrate )
+
+`Note : ( *please restore database before migrate )`
 
 How to use:
 1. Clone this repository
