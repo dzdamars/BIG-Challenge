@@ -27,6 +27,10 @@ How to use:
             Password : admin
       
       ```
+# difference between superadmin and admin
+    Superadmin  : can access everything
+    Admin       : only can access create, which is to make admin, menu or group
+
 # If any questions please contact me at : 
     
     ```
@@ -35,3 +39,4 @@ How to use:
     0895 6132 37215 (WA)
     
     ```
+   
